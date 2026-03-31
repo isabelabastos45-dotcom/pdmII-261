@@ -1,5 +1,3 @@
-![alt text](image.png)
-
 import 'dart:convert';
 
 //dependente
